@@ -110,7 +110,9 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     padding-bottom: 2rem;
+
     font-size: 27px;
+
     color: #F1F8FD;
 }
 
