@@ -17,13 +17,13 @@
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #999999;
+    background-color: #ed783d;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #424a50;
+    background-color: #5988ac;
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -91,6 +91,8 @@
 }
 
 .right-title {
+    font-size: 27px;
+    text-transform: uppercase;
     color: #eeeeee;
 }
 
@@ -108,13 +110,16 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     padding-bottom: 2rem;
+
+    font-size: 27px;
+
     color: #F1F8FD;
 }
 
 .exp-company-name,
 .education-school-name,
 .awards-company-name {
-    font-size: 25px;
+    font-size: 23px;
     font-weight: bold;
 }
 
