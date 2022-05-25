@@ -59,31 +59,24 @@
 .left-title {
     color: #dadada;
     font-size: 27px;
-    padding-top: 2px;
+    padding-top: 15px;
 }
 
 .contact-info ul {
-    padding-top: 2rem;
+    padding-top: 5px;
 }
 
-.contact-info ul li,
+.contact-info ul li i a,
 .references ul li {
-    padding: 1rem 1;
+    padding: 2px 2px;
     color: #dadada;
-}
-
-.contact-info ul li i,
-.references ul li i {
-    padding-right: 1rem;
-    font-size: 22px;
-    color: #dadada;
+    text-decoration: none;
 }
 
 .skills ul {
-    padding-top: 1rem;
+    padding: 1px 0 0 0;
 }
 .skills ul li p {
-    padding: .4rem 0;
     color: #dadada;
     font-size: 22px;
 }
